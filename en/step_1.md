@@ -1,25 +1,13 @@
-## Introduction
+It's fun to keep track of a high score in a game. 
 
-Add project description here. What will learners be making?
+Let's say you have a variable called `score`, which gets set to zero at the beginning of each game. 
 
-### What you will make
+Add another variable called `high score`. 
 
-Add something here to showcase here, for example:
+![click make make a variable](images/make-variable-annotated.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
+![enter name high score](images/make-high-score-variable.png)
 
-Add instructions here. These should explain either how the finished project will work, or explain how to interact with the content above.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`. 
 
-### What you will learn
-
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){:target="_blank"}:
-
-+ [Add curriculum strand/level description.](https://www.raspberrypi.org/curriculum/strand/level){:target="_blank"}
-
-### Additional information for educators
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-Use the link in the footer to access the GitHub repository for this project, which contains all resources (including an example finished project) in the 'en/resources' folder.
+![screenshot](images/check-for-high-score.png)

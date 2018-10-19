@@ -1,11 +1,14 @@
-title: generic-scratch3-high-score
+title: Create a high score in Scratch
 hero_image: images/banner.png
-description: generic-scratch3-high-score description
-version: 4
+description: Learn how to create a high score for your Scratch game
+theme: red # all possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 # 1, 2 or 3
 listed: false
-copyedit: false
-last_tested: "2018-10-19"
+ingredient: true
+copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: "games"
+technologies: "scratch"
+site_areas:
 steps:
-  - title: Introduction
-  - title: What you will need
-  - title: Step title
+  - title: Step one
