@@ -1,8 +1,8 @@
 It's fun to keep track of a high score in a game. 
 
-Let's say you have a variable called `score`, which gets set to zero at the beginning of each game. 
+Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game. 
 
-Add another variable called `high score`. 
+Add another variable called `high score`{:class="blockdata"}. 
 
 ![click make make a variable](images/make-variable-annotated.png)
 
