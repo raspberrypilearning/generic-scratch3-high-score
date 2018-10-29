@@ -1,8 +1,8 @@
 Het is leuk om een ​​hoogste score in een spel bij te houden.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Stel dat je een variabele `score`{:class="blockdata"} hebt, die aan het begin van elk spel op nul wordt gezet.
 
-Add another variable called `high score`{:class="blockdata"}.
+Voeg nog een variabele toe met de naam `hoogste score`{:class="blockdata"}.
 
 ![click make make a variable](images/make-variable-annotated.png)
 
