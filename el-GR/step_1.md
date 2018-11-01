@@ -1,12 +1,12 @@
 Είναι διασκεδαστικό να παρακολουθείς το υψηλότερο σκορ σε ένα παιχνίδι.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Ας υποθέσουμε ότι έχεις μία μεταβλητή που ονομάζεται `σκορ`{:class="blockdata"}, η οποία έχει την τιμή μηδέν στην αρχή κάθε παιχνιδιού.
 
-Add another variable called `high score`{:class="blockdata"}.
+Πρόσθεσε άλλη μία μεταβλητή που ονομάζεται `υψηλό σκορ`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![κλικ στο Δημιουργία Μεταβλητής](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![εισαγωγή ονόματος μεταβλητής για υψηλό σκορ](images/make-high-score-variable.png)
 
 Στο τέλος του παιχνιδιού (ή όποτε θέλεις να ενημερώνεις το υψηλότερο σκορ), θα πρέπει να ελέγχεις αν έχεις ένα νέο `υψηλό σκορ`.
 
