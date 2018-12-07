@@ -1,12 +1,12 @@
 在游戏中记录高分很有意思。
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+假设您有一个变量名为`score` {:class ="blockdata"}，在每场比赛开始时设置为零。
 
-Add another variable called `high score`{:class="blockdata"}.
+添加另外一个名为`high score`的变量{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![单击 建立一个变量](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![输入名称"high score"](images/make-high-score-variable.png)
 
 在游戏结束时（或者当你想要更新最高分的时候），你需要检查你是否有一个新的`高分`
 
