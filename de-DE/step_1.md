@@ -1,13 +1,13 @@
-Es macht Spaß, die höchste Punktzahl in einem Spiel zu verfolgen.
+Es macht Spaß, den Highscore in einem Spiel im Auge zu behalten.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Nehmen wir an, du hast eine Variable namens `Spielstand`{:class="blockdata"}, die bei jedem Spielstart auf Null gesetzt wird.
 
-Add another variable called `high score`{:class="blockdata"}.
+Füge eine weitere Variable hinzu und nenne sie `Highscore`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![Klicke auf Neue Variable](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![Nenne sie Highscore](images/make-high-score-variable.png)
 
-Am Ende des Spiels (oder wenn du die höchste Punktzahl aktualisieren willst) musst du überprüfen, ob du eine neue `Höchste Punktzahl` hast.
+Am Ende des Spiels (oder wenn du den Highscore aktualisieren möchtest) musst du überprüfen, ob du einen neuen `Highscore` hast.
 
 ![Screenshot](images/check-for-high-score.png)
