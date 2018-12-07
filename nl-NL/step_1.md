@@ -4,7 +4,7 @@ Stel dat je een variabele `score`{:class="blockdata"} hebt, die aan het begin va
 
 Voeg nog een variabele toe met de naam `hoogste score`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![click make a variable](images/make-variable-annotated.png)
 
 ![enter name high score](images/make-high-score-variable.png)
 
