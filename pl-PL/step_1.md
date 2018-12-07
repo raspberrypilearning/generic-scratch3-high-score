@@ -1,13 +1,13 @@
-Fajnie jest śledzić najlepszy wynik w grze.
+It's fun to keep track of a high score in a game.
 
-Załóżmy, że masz zmienną o nazwie `wynik`{:class="blockdata"}, która zostaje ustawiona na zero na początku każdej gry.
+Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
-Dodaj kolejną zmienną o nazwie `najlepszy wynik`{:class="blockdata"}.
+Add another variable called `high score`{:class="blockdata"}.
 
-![kliknij Stwórz zmienną](images/make-variable-annotated.png)
+![click make make a variable](images/make-variable-annotated.png)
 
-![wpisz jako nazwę: najlepszy wynik](images/make-high-score-variable.png)
+![enter name high score](images/make-high-score-variable.png)
 
-Pod koniec gry (lub gdy chcesz zaktualizować najlepszy wynik), musisz sprawdzić, czy masz nowy `najlepszy wynik`.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![zrzut ekranu](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
