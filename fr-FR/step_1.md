@@ -1,4 +1,4 @@
-C'est amusant de garder une trace du meilleur score dans un jeu.
+It's fun to keep track of a high score in a game.
 
 Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![enter name high score](images/make-high-score-variable.png)
 
-A la fin du jeu (ou chaque fois que tu veux mettre à jour le meilleur score), tu devras vérifier si tu as un nouveau `meilleur score`.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![capture d'écran](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
