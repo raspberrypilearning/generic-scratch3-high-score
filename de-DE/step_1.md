@@ -1,13 +1,13 @@
-Es macht Spaß, den Highscore in einem Spiel im Auge zu behalten.
+It's fun to keep track of a high score in a game.
 
-Nehmen wir an, du hast eine Variable namens `Spielstand`{:class="blockdata"}, die bei jedem Spielstart auf Null gesetzt wird.
+Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
-Füge eine weitere Variable hinzu und nenne sie `Highscore`{:class="blockdata"}.
+Add another variable called `high score`{:class="blockdata"}.
 
-![Klicke auf Neue Variable](images/make-variable-annotated.png)
+![click make make a variable](images/make-variable-annotated.png)
 
-![Nenne sie Highscore](images/make-high-score-variable.png)
+![enter name high score](images/make-high-score-variable.png)
 
-Am Ende des Spiels (oder wenn du den Highscore aktualisieren möchtest) musst du überprüfen, ob du einen neuen `Highscore` hast.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![Screenshot](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
