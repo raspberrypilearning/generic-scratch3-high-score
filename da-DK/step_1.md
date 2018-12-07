@@ -1,4 +1,4 @@
-Det er sjovt at holde øje med en high score i et spil.
+It's fun to keep track of a high score in a game.
 
 Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![enter name high score](images/make-high-score-variable.png)
 
-I slutningen af ​​spillet (eller når du vil opdatere high score), skal du kontrollere, om du har en ny `high score`.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![skærmbillede](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
