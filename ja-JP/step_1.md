@@ -1,4 +1,4 @@
-ゲームで高得点を記録するのは楽しいことです。
+It's fun to keep track of a high score in a game.
 
 Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![enter name high score](images/make-high-score-variable.png)
 
-ゲーム終了時（または高点数を更新したい場合）、新しい `高点数` があるかどうかを確認する必要があります。
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![スクリーンショット](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
