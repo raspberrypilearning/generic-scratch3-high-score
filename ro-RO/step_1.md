@@ -1,4 +1,4 @@
-Este distractiv să țineți evidența recordurilor într-un joc.
+It's fun to keep track of a high score in a game.
 
 Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![enter name high score](images/make-high-score-variable.png)
 
-La sfârșitul jocului (sau oricând doriți să actualizați recordul), va trebui să verificați dacă aveți un nou `record`.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
-![captură de ecran](images/check-for-high-score.png)
+![screenshot](images/check-for-high-score.png)
