@@ -1,13 +1,13 @@
-Het is leuk om een ​​hoogste score in een spel bij te houden.
+It's fun to keep track of a high score in a game.
 
-Stel dat je een variabele `score`{:class="blockdata"} hebt, die aan het begin van elk spel op nul wordt gezet.
+Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
 
-Voeg nog een variabele toe met de naam `hoogste score`{:class="blockdata"}.
+Add another variable called `high score`{:class="blockdata"}.
 
-![click make a variable](images/make-variable-annotated.png)
+![click make make a variable](images/make-variable-annotated.png)
 
 ![enter name high score](images/make-high-score-variable.png)
 
-Aan het einde van het spel (of wanneer je de hoogste score wilt bijwerken), moet je controleren of je een nieuwe `hoogste score` hebt.
+At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
 
 ![screenshot](images/check-for-high-score.png)
