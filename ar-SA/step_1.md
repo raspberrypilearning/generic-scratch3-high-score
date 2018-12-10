@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+لا شك أنه من الممتع تتبع أعلى نتيجة في اللعبة.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+لنفترض أن لديك متغيرًا يُسمى `نتيجة`{:class="blockdata"}، معينًا إلى القيمة صفر في بداية كل لعبة.
 
-Add another variable called `high score`{:class="blockdata"}.
+قم بإضافة متغير أخر يُسمى `أعلى نتيجة`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![انقر على إنشاء متغير](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![أدخل اسم أعلى درجة](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+في نهاية اللعبة (أو عندما تريد تحديث أعلى نتيجة)، ستحتاج إلى التحقق مما إذا كان لديك `نتيجة عالية` جديدة ام لا.
 
-![screenshot](images/check-for-high-score.png)
+![لقطة الشاشة](images/check-for-high-score.png)
