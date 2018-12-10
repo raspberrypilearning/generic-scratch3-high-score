@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+Забавно е да следите висок резултат в дадена игра.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Да приемем, че имате променлива, наречена `резултат`{:class = "blockdata"}, която се нулира в началото на всяка игра.
 
-Add another variable called `high score`{:class="blockdata"}.
+Добавете друга променлива, наречена `висок резултат`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![кликнете върху направи променлива](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![въведете име висок рейтинг](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+В края на играта (или когато искате да актуализирате високия резултат), ще трябва да проверите дали имате нов `висок резултат`.
 
-![screenshot](images/check-for-high-score.png)
+![снимка на екрана](images/check-for-high-score.png)
