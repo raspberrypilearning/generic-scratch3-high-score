@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+جالبه که بهترین امتیاز رو در یک بازی دنبال کنید.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+فرض کنید شما یک متغیر با نام `score`{: class = "blockdata"} دارید که در ابتدای هر بازی صفر می‌شود.
 
-Add another variable called `high score`{:class="blockdata"}.
+یک متغیر دیگر با نام `high score`{: class = "blockdata"} اضافه کنید.
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+در پایان بازی (یا هر زمانی که می‌خواهید امتیاز بالا را به‌روز رسانی کنید)، باید بررسی کنید که آیا `high score` جدیدی دارید.
 
-![screenshot](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
