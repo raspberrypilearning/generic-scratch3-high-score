@@ -1,13 +1,13 @@
 Det er sjovt at holde øje med en high score i et spil.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Lad os sige, at du har en variabel kaldet ` score ` {: class = "blockdata"}, som bliver sat til nul i begyndelsen af hvert spil.
 
-Add another variable called `high score`{:class="blockdata"}.
+Tilføj en anden variabel kaldet ` high score ` {: Class = "blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 I slutningen af ​​spillet (eller når du vil opdatere high score), skal du kontrollere, om du har en ny `high score`.
 
-![skærmbillede](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
