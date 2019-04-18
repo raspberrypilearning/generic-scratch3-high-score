@@ -4,10 +4,10 @@
 
 添加另外一个名为`high score`的变量{:class="blockdata"}.
 
-![单击 建立一个变量](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![输入名称"high score"](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 在游戏结束时（或者当你想要更新最高分的时候），你需要检查你是否有一个新的`高分`
 
-![截屏](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
