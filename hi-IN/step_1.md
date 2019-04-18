@@ -1,13 +1,13 @@
 गेम में उच्च स्कोर पर ध्यान देना मज़ेदार होता है।
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+मान लें आपके पास `score` नामक वेरिएबल है, जो प्रत्येक गेम के शुरुआत में शून्य पर सेट हो जाता है।
 
-Add another variable called `high score`{:class="blockdata"}.
+`high score` नामक अन्य वेरिएबल जोड़ें।
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 गेम की समाप्ति पर (या जब भी आप उच्च स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि क्या आपने अपना नया `high score` बनाया की नहीं।
 
-![स्क्रीनशॉट](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
