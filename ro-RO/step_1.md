@@ -1,13 +1,13 @@
-Este distractiv să țineți evidența recordurilor într-un joc.
+Este distractiv să ții evidența celui mai mare scor într-un joc.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Să spunem că ai o variabilă numită `scor`{:class="blockdata"}, care devine zero la începerea fiecărui joc.
 
-Add another variable called `high score`{:class="blockdata"}.
+Adaugă o altă variabilă, numită `top scor`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-La sfârșitul jocului (sau oricând doriți să actualizați recordul), va trebui să verificați dacă aveți un nou `record`.
+La sfârșitul jocului (sau oricând dorești să actualizezi recordul), va trebui să verifici dacă ai un nou `top scor`.
 
-![captură de ecran](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
