@@ -1,13 +1,13 @@
 Egy játékban szórakoztató kihívás megdönteni a rekordot.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Tegyük fel, hogy van egy `pontszám`{:class="blockdata"} nevű változó, amely minden játék elején nullára áll.
 
-Add another variable called `high score`{:class="blockdata"}.
+Adj hozzá egy újabb változót `rekord`{:class="blockdata"} néven.
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 A játék végén (vagy bármikor, amikor frissíteni szeretnéd a rekordot), ellenőrizned kell, hogy a pontszám nagyobb-e, mint a `rekord`.
 
-![képernyőkép](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
