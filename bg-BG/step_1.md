@@ -4,10 +4,10 @@
 
 Добавете друга променлива, наречена `висок резултат`{:class="blockdata"}.
 
-![кликнете върху направи променлива](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![въведете име висок рейтинг](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 В края на играта (или когато искате да актуализирате високия резултат), ще трябва да проверите дали имате нов `висок резултат`.
 
-![снимка на екрана](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
