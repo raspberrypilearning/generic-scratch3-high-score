@@ -4,10 +4,10 @@
 
 Πρόσθεσε άλλη μία μεταβλητή που ονομάζεται `υψηλό σκορ`{:class="blockdata"}.
 
-![κλικ στο Δημιουργία Μεταβλητής](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![εισαγωγή ονόματος μεταβλητής για υψηλό σκορ](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 Στο τέλος του παιχνιδιού (ή όποτε θέλεις να ενημερώνεις το υψηλότερο σκορ), θα πρέπει να ελέγχεις αν έχεις ένα νέο `υψηλό σκορ`.
 
-![screenshot](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
