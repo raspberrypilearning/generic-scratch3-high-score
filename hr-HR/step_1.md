@@ -4,10 +4,10 @@ Let's say you have a variable called `score`{:class="blockdata"}, which gets set
 
 Add another variable called `high score`{:class="blockdata"}.
 
-![click make make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 Na kraju igre (ili kad god želiš promijeniti najbolji rezultat), trebaš provjeriti imaš li novi `najbolji rezultat`.
 
-![screenshot](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
