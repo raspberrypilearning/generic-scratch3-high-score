@@ -10,4 +10,4 @@ Crea una variable nueva llamada `puntuación máxima` {: class = "blockdata"}.
 
 Al final del juego (o cuando quieras actualizar la puntuación máxima) tendrás que comprobar si tienes una nueva `puntuación máxima`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![los bloques de código requieren hacer puntuación alta igual a la puntuación](images/check-for-high-score.png)
