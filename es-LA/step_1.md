@@ -1,6 +1,6 @@
 It's fun to keep track of a high score in a game.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Supongamos que tienes una variable llamada `puntos`{:class="blockdata"}, que se establece a cero al inicio de cada juego.
 
 Add another variable called `high score`{:class="blockdata"}.
 
