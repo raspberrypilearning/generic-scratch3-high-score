@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-Na kraju igre (ili kad god želiš promijeniti najbolji rezultat), trebaš provjeriti imaš li novi `najbolji rezultat`.
+Na kraju igre (ili kad god želiš promijeniti najbolji rezultat) trebaš provjeriti imaš li novi `najbolji rezultat`.
 
 ![code blocks require to make high score equal score](images/check-for-high-score.png)
