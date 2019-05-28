@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+Mae'n hwyl cadw sgôr uchel mewn gêm.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Dyweder fod gen ti newidyn o'r enw `sgôr`{:class="blockdata"}, sydd yn mynd i ddim ar ddechrau pob gêm.
 
-Add another variable called `high score`{:class="blockdata"}.
+Ychwanega newidyn arall o'r enw `sgôr uchel`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![dewislen newidyn gyda Gwneud Newidyn wedi uwcholeuo](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![newidyn newydd gyda bocs yn ymddangos gyda sgôr uchel fel enw newidyn](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+Ar ddiwedd y gêm (neu pryd bynnag rwyt ti am ddiweddaru'r sgôr uchel), bydd angen i ti wirio a oes gen ti`sgôr uchel` newydd.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![blociau côd yn gofyn i wneud sgôr uchel yn sgôr cyfartal](images/check-for-high-score.png)
