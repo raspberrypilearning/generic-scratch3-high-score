@@ -4,10 +4,10 @@ Stel dat je een variabele `score`{:class="blockdata"} hebt, die aan het begin va
 
 Voeg nog een variabele toe met de naam `hoogste score`{:class="blockdata"}.
 
-![click make a variable](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![enter name high score](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 Aan het einde van het spel (of wanneer je de hoogste score wilt bijwerken), moet je controleren of je een nieuwe `hoogste score` hebt.
 
-![screenshot](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
