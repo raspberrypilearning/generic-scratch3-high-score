@@ -1,4 +1,4 @@
-Zabavno je v igri beležiti najboljši rezultat.
+It's fun to keep track of a high score in a game.
 
 Recimo, da imaš spremenljivko z imenom `score`{: class = "blockdata"}, ki se na začetku vsake igre nastavi na nič.
 
