@@ -1,6 +1,6 @@
 在游戏中记录高分很有意思。
 
-假设您有一个变量名为`score`{:class ="blockdata"}，在每场比赛开始时设置为零。
+假设您有一个变量名为`score`{:class="blockdata"}，在每场比赛开始时设置为零。
 
 添加另外一个名为`high score`{:class="blockdata"}的变量.
 
