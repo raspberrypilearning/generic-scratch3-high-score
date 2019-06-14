@@ -2,7 +2,7 @@
 
 假设您有一个变量名为`score`{:class="blockdata"}，在每场比赛开始时设置为零。
 
-添加另外一个名为`high score`的变量{:class="blockdata"}.
+添加另外一个名为`high score`{:class="blockdata"}的变量.
 
 ![单击 建立一个变量](images/make-variable-annotated.png)
 
