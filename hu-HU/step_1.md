@@ -4,10 +4,10 @@ Tegyük fel, hogy van egy `pontszám`{:class="blockdata"} nevű változó, amely
 
 Adj hozzá egy újabb változót `rekord`{:class="blockdata"} néven.
 
-![Változók menü a Változó létrehozása kiemelésével](images/make-variable-annotated.png)
+![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
-![Új változó ablak a "rekord" változónévvel](images/make-high-score-variable.png)
+![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
 A játék végén (vagy bármikor, amikor frissíteni szeretnéd a rekordot), ellenőrizned kell, hogy a pontszám nagyobb-e, mint a `rekord`.
 
-![a rekord és a pontszám összehasonlításához szükséges blokkok](images/check-for-high-score.png)
+![code blocks require to make high score equal score](images/check-for-high-score.png)
