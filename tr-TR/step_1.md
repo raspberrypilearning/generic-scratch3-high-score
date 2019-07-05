@@ -1,13 +1,13 @@
-Bir oyunda yüksek puanı takip etmek eğlencelidir.
+Bir oyunda yüksek skoru takip etmek eğlencelidir.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Her oyunun başında sıfıra ayarlanan `skor` isimli bir değişkeniniz olduğunu varsayalım.
 
-Add another variable called `high score`{:class="blockdata"}.
+`yüksek skor` adlı başka bir değişken ekleyin{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![Değişken Oluştur vurgulanmış olan değişkenler menüsü](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![değişken adı yüksek skor olan yeni değişken yaratma kutusu](images/make-high-score-variable.png)
 
-Oyunun sonunda (veya yüksek puanı güncellemek istediğinizde), yeni bir `yüksek puan` olup olmadığını kontrol etmeniz gerekir.
+Oyunun sonunda (veya yüksek skoru güncellemek istediğinizde), yeni bir `yüksek skor` olup olmadığını kontrol etmeniz gerekir.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![yüksek skoru, skora eşitlemek için gereken kod blokları](images/check-for-high-score.png)
