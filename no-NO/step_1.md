@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+Det er morsomt å holde styr på toppscoren i et spill.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+La oss si at du har en variabel som heter `score`{:class="blockdata"}, som blir satt til null i begynnelsen av hvert spill.
 
-Add another variable called `high score`{:class="blockdata"}.
+Legg til en annen variabel kalt `toppscore`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![meny for variabler, med Lag en variabel markert](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![vindu for å lage en ny variabel med toppscore som variabel navn](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+På slutten av spillet (eller når du vil oppdatere toppscoren), må du sjekke om du har en ny `toppscore`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![kodeklosser som er nødvendig for å sette toppscore lik score](images/check-for-high-score.png)
