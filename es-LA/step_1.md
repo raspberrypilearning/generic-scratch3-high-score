@@ -4,7 +4,7 @@ Supongamos que tienes una variable llamada `puntuación`{:class="blockdata"}, qu
 
 Crea una variable nueva llamada `puntuación máxima` {: class = "blockdata"}.
 
-![menú de variables con Make a Variable resaltado](images/make-variable-annotated.png)
+![menú de variables con el Make a Variable resaltado](images/make-variable-annotated.png)
 
 ![nueva ventana emergente de variable con puntuación alta como nombre de variable](images/make-high-score-variable.png)
 
