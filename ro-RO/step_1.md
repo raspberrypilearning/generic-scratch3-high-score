@@ -4,10 +4,10 @@ Să spunem că ai o variabilă numită `scor`{:class="blockdata"}, care devine z
 
 Adaugă o altă variabilă, numită `top scor`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![meniul Variabile cu Creează o variabilă evidențiată](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![popup Variabilă nouă cu numele variabilei top scor](images/make-high-score-variable.png)
 
 La sfârșitul jocului (sau oricând dorești să actualizezi recordul), va trebui să verifici dacă ai un nou `top scor`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![blocuri de cod necesare pentru a face scorul de top egal cu scorul](images/check-for-high-score.png)
