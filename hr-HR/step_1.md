@@ -1,13 +1,13 @@
 Zabavno je pratiti najbolji rezultat u igri.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Pretpostavimo da imaš varijablu nazvanu `rezultat`{:class="blockdata"} koja se na početku svake igre postavlja na nulu.
 
-Add another variable called `high score`{:class="blockdata"}.
+Dodaj još jednu varijablu i nazovi je `najbolji rezultat`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![izbornik varijabli s istaknutom opcijom Napravi varijablu](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![novi skočni okvir varijable s najbolji rezultat kao imenom varijable](images/make-high-score-variable.png)
 
 Na kraju igre (ili kad god želiš promijeniti najbolji rezultat) trebaš provjeriti imaš li novi `najbolji rezultat`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![blokovi naredbi potrebni za izjednačavanje rezultata i najboljeg rezultata](images/check-for-high-score.png)
