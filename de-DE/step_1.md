@@ -4,10 +4,10 @@ Nehmen wir an, du hast eine Variable namens `Spielstand`{:class="blockdata"}, di
 
 Füge eine weitere Variable hinzu und nenne sie `Highscore`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![Menü "Variablen" mit hervorgehobener Option "Neue Variable"](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![Popup-Box "Neue Variable" mit "Highscore" als Variablenname](images/make-high-score-variable.png)
 
 Am Ende des Spiels (oder wenn du den Highscore aktualisieren möchtest) musst du überprüfen, ob du einen neuen `Highscore` hast.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![Code-Blöcke um den Highscore gleich dem Spielstand zu machen](images/check-for-high-score.png)
