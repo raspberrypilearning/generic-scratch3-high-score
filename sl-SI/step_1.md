@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+V igri je zabavno beležiti najboljši rezultat.
 
-Recimo, da imaš spremenljivko z imenom `score`{: class = "blockdata"}, ki se na začetku vsake igre nastavi na nič.
+Recimo, da imaš spremenljivko z imenom `rezultat`{:class="blockdata"}, ki se na začetku vsake igre nastavi na nič.
 
-Dodaj še eno spremenljivko z imenom » `:`{: class = "blockdata"}.
+Dodaj še eno spremenljivko z imenom `najboljši rezultat`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![meni Spremenljivke z označeno opcijo Ustvari spremenljivko](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![okno za novo spremenljivko z imenom najboljši rezultat kot imenom spremenljivke](images/make-high-score-variable.png)
 
 Na koncu igre (ali kadarkoli želiš posodobiti najboljši rezultat), boš moral preveriti, ali obstaja nov `najboljši rezultat`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![zahtevani bloki kode, ki izenačijo najboljši rezultat z rezultatom](images/check-for-high-score.png)
