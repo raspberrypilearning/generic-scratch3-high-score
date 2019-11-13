@@ -1,13 +1,13 @@
-ゲームで高得点を記録するのは楽しいことです。
+ゲームでハイスコアを記録するのは楽しいものです。
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+`スコア` {:class="blockdata"}という変数 (へんすう) があり、ゲームを始めるごとにゼロになるとします。
 
-Add another variable called `high score`{:class="blockdata"}.
+`ハイスコア`{:class="blockdata"}というべつの変数を追加します。
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![「変数を作る」を目立たせた変数メニュー](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![変数名「ハイスコア」の新しい変数ポップアップ](images/make-high-score-variable.png)
 
-ゲーム終了時（または高点数を更新したい場合）、新しい `高点数` があるかどうかを確認する必要があります。
+ゲームが終わった時に（またはハイスコアを更新 (こうしん)したい時) 、新しい `ハイスコア`があるかどうかをチェックする必要 (ひつよう) があります。
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![ハイスコアを同じスコアにするために必要なコードブロック](images/check-for-high-score.png)
