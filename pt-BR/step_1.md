@@ -1,13 +1,13 @@
 É divertido acompanhar a pontuação máxima em um jogo.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Digamos que você tenha uma variável chamada `pontuação`{:class="blockdata"}, que é definida como zero no início de cada jogo.
 
-Add another variable called `high score`{:class="blockdata"}.
+Crie uma nova variável chamada `pontuação máxima`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![menu de variáveis com Criar uma Variável destacada](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![caixa pop-up de nova variável com pontuação máxima como nome da variável](images/make-high-score-variable.png)
 
 No final do jogo (ou sempre que quiser atualizar a pontuação máxima), você precisará verificar se a `pontuação máxima` foi ultrapassada.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![os blocos de código exigem que a pontuação máxima seja igual à pontuação](images/check-for-high-score.png)
