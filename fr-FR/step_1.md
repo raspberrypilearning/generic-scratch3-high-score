@@ -2,7 +2,7 @@ C'est amusant de garder une trace du meilleur score dans un jeu.
 
 Disons que tu as une variable appelée `score`{:class="blockdata"}, qui est mise à zéro au début de chaque partie.
 
-Ajoute une autre variable appelée `meilleur score`"}{:class="blockdata"}.
+Ajoute une autre variable appelée `meilleur score`{:class="blockdata"}.
 
 ![menu des variables avec Créer une variable en surbrillance](images/make-variable-annotated.png)
 
