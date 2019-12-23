@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+Je zábavné sledovať v hre svoje vysoké skóre.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Povedzme, že máš premennú nazvanú `skóre`{: class = "blockdata"}, ktorá je na začiatku každej hry nastavená na nulu.
 
-Add another variable called `high score`{:class="blockdata"}.
+Pridaj inú premennú s názvom `vysoké skóre`{: class = "blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![ponuka premenných so zvýraznenou Novou premennou](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![vyskakovacie okno novej premennej s názvom premennej vysoké skóre](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+Na konci hry (alebo kedykoľvek, keď chceš aktualizovať vysoké skóre), budeš musieť skontrolovať, či máš nové `vysoké skóre`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![bloky kódu vyžadujú aby sa vysoké skóre rovnalo skóre](images/check-for-high-score.png)
