@@ -8,6 +8,6 @@ Add another variable called `high score`{:class="blockdata"}.
 
 ![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-Di akhir permainan (atau kapan pun Kamu ingin memperbarui skor tertinggi), Kamu harus memeriksa apakah Kamu memiliki nilai tertinggi `baru`.
+Di akhir permainan (atau kapan pun kamu ingin memperbarui skor tertinggi), kamu perlu memeriksa apakah kamu memiliki `skor tertinggi `.
 
 ![code blocks require to make high score equal score](images/check-for-high-score.png)
