@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+On hauskaa seurata korkeinta pistemäärää pelissä.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Oletetaan, että sinulla on muuttuja nimeltä `pistemäärä`{:class="blockdata"}, joka asetetaan nollaan kunkin pelin alussa.
 
-Add another variable called `high score`{:class="blockdata"}.
+Lisää toinen muuttuja nimeltä `korkein pistemäärä`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![muuttujat-valikko, jossa Luo Muuttuja korostettuna](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![uusi muuttuja -ponnahdusikkuna, jossa muuttujan nimi on korkein pistemäärä](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+Pelin lopussa (tai kun haluat päivittää korkeimman pistemäärän), sinun on tarkistettava, onko sinulla uusi `korkein pistemäärä`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![koodilohkot vaativat, että korkein pistemäärä on yhtä suuri kuin pistemäärä](images/check-for-high-score.png)
