@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+Masayang masubaybayan ang isang mataas na marka sa isang laro.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+Sabihin nating mayroon kang isang variable na tinatawag na `score`{:class="blockdata"}, na itinatakda sa zero ang simula ng bawat laro.
 
-Add another variable called `high score`{:class="blockdata"}.
+Magdagdag ng isa pang variable na tinawag na `high score`{:class="blockdata"}.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![menu ng mga variable na may naka-highlight na Make a Variable](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![bagong variable popup box na may mataas na marka bilang variable na pangalan](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+Sa katapusan ng laro (o sa tuwing nais mong i-update ang mataas na marka), kakailanganin mong suriin kung mayroon kang isang bagong `high score`.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![kailangan ng mga code blocks para gawin ang mataas ang marka](images/check-for-high-score.png)
