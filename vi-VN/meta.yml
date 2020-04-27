@@ -1,10 +1,16 @@
 ---
-title: Create a high score in Scratch
+title: Make a list
 hero_image: images/banner.png
-description: Learn how to create a high score for your Scratch game
+description: Make a new list
+theme: red #possible values: blue, green, navy, orange, red, turquoise, violet, yellow
+duration: 1 #possible values: 1, 2 or 3
 listed: false
+ingredient: true
 copyedit: true
+curriculum: creator, design-0, programming-0, phys-comp-0, manufacture-0, community-0
+interests: ""
+technologies: "scratch"
 site_areas:
 steps:
   - 
-    title: Step one
+    title: Make a list
