@@ -1,13 +1,13 @@
-It's fun to keep track of a high score in a game.
+כייף לעקוב אחר התוצאה המקסימלית במשחק.
 
-Let's say you have a variable called `score`{:class="blockdata"}, which gets set to zero at the beginning of each game.
+נניח שיש לך משתנה הנקרא `תוצאה`, שמוגדר לאפס בתחילת כל משחק.
 
-Add another variable called `high score`{:class="blockdata"}.
+הוסף משתנה נוסף הנקרא `תוצאה מקסימלית`.
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![תפריט משתנים עם ״צור משתנה״](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![תיבת ״משתנה חדש״ עם תוצאה מקסימלית כשם המשתנה](images/make-high-score-variable.png)
 
-At the end of the game (or whenever you want to update the high score), you'll need to check whether you have a new `high score`.
+בסיום המשחק (או בכל פעם שתרצה לעדכן את התוצאה המקסימלית), עליך לבדוק אם יש לך תוצאה חדשה גבוהה יותר ``.
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![קטע קוד הדרוש ליצור תוצאה מקסימלית](images/check-for-high-score.png)
