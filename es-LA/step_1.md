@@ -1,8 +1,8 @@
 Es divertido hacer el seguimiento de la puntuación máxima en un juego.
 
-Supongamos que tienes una variable llamada `puntuación`{:class="blockdata"}, que se establece a cero al inicio de cada juego.
+Supongamos que tienes una variable llamada `puntuación`{:class="blockdata"}, que se fija a cero al inicio de cada juego.
 
-Add another variable called `high score`{:class="blockdata"}.
+Añade otra variable llamada `puntuación máxima` {: class = "blockdata"}.
 
 ![menú de variables con el Make a Variable resaltado](images/make-variable-annotated.png)
 
