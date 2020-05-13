@@ -10,4 +10,4 @@
 
 गेम की समाप्ति पर (या जब भी आप उच्च स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि क्या आपने अपना नया `high score` बनाया की नहीं।
 
-![code blocks require to make high score equal score](images/check-for-high-score.png)
+![कोड ब्लॉक को उच्च स्कोर के बराबर स्कोर बनाने की आवश्यकता होती है](images/check-for-high-score.png)
