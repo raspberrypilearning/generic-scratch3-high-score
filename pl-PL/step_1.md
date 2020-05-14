@@ -1,13 +1,13 @@
-Det er morsomt å holde styr på toppscoren i et spill.
+Fajnie jest śledzić najlepszy wynik w grze.
 
-La oss si at du har en variabel som heter `score`{:class="blockdata"}, som blir satt til null i begynnelsen av hvert spill.
+Załóżmy, że masz zmienną o nazwie `wynik`{:class="blockdata"}, która zostaje ustawiona na zero na początku każdej gry.
 
-Legg til en annen variabel kalt `toppscore`{:class="blockdata"}.
+Dodaj kolejną zmienną o nazwie `najlepszy wynik`{:class="blockdata"}.
 
-![meny for variabler, med Lag en variabel markert](images/make-variable-annotated.png)
+![menu zmiennych z podświetloną opcją Utwórz zmienną](images/make-variable-annotated.png)
 
-![vindu for å lage en ny variabel med toppscore som variabel navn](images/make-high-score-variable.png)
+![okno nowa zmienna z najlepszy wynik jako nazwa zmiennej](images/make-high-score-variable.png)
 
-På slutten av spillet (eller når du vil oppdatere toppscoren), må du sjekke om du har en ny `toppscore`.
+Pod koniec gry (lub gdy chcesz zaktualizować najlepszy wynik), musisz sprawdzić, czy masz nowy `najlepszy wynik`.
 
-![kodeklosser som er nødvendig for å sette toppscore lik score](images/check-for-high-score.png)
+![bloczki kodu niezbędne do przypisania najlepszemu wynikowi aktualnego wyniku](images/check-for-high-score.png)
