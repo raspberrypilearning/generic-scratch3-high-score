@@ -4,9 +4,9 @@
 
 `high score` नामक अन्य वेरिएबल जोड़ें।
 
-![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
+![वेरिएबल मेनू मेक अ वैरिएबल हाइलाइटेड](images/make-variable-annotated.png)
 
-![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
+![नया वैरिएबल पॉपअप बॉक्स जिसमें वेरिएबल नाम है](images/make-high-score-variable.png)
 
 गेम की समाप्ति पर (या जब भी आप उच्च स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि क्या आपने अपना नया `high score` बनाया की नहीं।
 
