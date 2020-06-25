@@ -2,7 +2,7 @@
 
 假设您有一个变量名为`得分`{:class="blockdata"}，在每场比赛开始时设置为零。
 
-添加另外一个名为`高分`的变量{:class="blockdata"}.
+添加另外一个名为`高分`{:class="blockdata"}的变量.
 
 ![“添加变量”高亮显示的变量菜单](images/make-variable-annotated.png)
 
