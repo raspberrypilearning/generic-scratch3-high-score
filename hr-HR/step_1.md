@@ -1,19 +1,13 @@
-+ Clique em **Faça uma Lista** abaixo de **Variáveis**.
+Zabavno je pratiti najbolji rezultat u igri.
 
-![Faça uma lista](images/make-a-list-annotated.png)
+Pretpostavimo da imaš varijablu nazvanu `rezultat`{:class="blockdata"} koja se na početku svake igre postavlja na nulu.
 
-+ Digite o nome da sua lista. Você pode escolher se deseja que sua lista esteja disponível para todos os atores, ou apenas para um ator específico. Clique **OK**.
+Dodaj još jednu varijablu i nazovi je `najbolji rezultat`{:class="blockdata"}.
 
-![Lista de nomes](images/list-name-annotated.png)
+![izbornik varijabli s istaknutom opcijom Napravi varijablu](images/make-variable-annotated.png)
 
-+ Depois de criar a lista, ela será exibida no palco, você também pode desmarca-la na aba Scripts para ocultá-la.
+![novi skočni okvir varijable s najbolji rezultat kao imenom varijable](images/make-high-score-variable.png)
 
-![Mostrar/esconder lista](images/list-show-hide-annotated.png)
+Na kraju igre (ili kad god želiš promijeniti najbolji rezultat) trebaš provjeriti imaš li novi `najbolji rezultat`.
 
-+ Clique no `+` na parte inferior da lista para adicionar itens e clique no x ao lado de um item para excluí-lo.
-
-![Mostrar/esconder lista](images/list-add-delete-annotated.png)
-
-+ Novos blocos aparecerão e permitirão que você use sua nova lista no seu projeto.
-
-![Lista de blocos](images/list-blocks.png)
+![blokovi naredbi potrebni za izjednačavanje rezultata i najboljeg rezultata](images/check-for-high-score.png)
