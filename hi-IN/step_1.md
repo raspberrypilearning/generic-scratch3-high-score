@@ -1,13 +1,13 @@
-गेम में उच्च स्कोर पर ध्यान देना मज़ेदार होता है।
+खेल में हाई स्कोर का ध्यान रखना मज़ेदार होता है।
 
-मान लें आपके पास `score` नामक वेरिएबल है, जो प्रत्येक गेम के शुरुआत में शून्य पर सेट हो जाता है।
+मान लें आपके पास `score` नाम का वेरिएबल है, जो हर खेल के शुरुआत में ज़ीरो पर सेट हो जाता है।
 
-`high score` नामक अन्य वेरिएबल जोड़ें।
+`high score` नाम का एक और वेरिएबल जोड़ें।
 
 ![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
 ![new variable popup box with high score as the variable name](images/make-high-score-variable.png)
 
-गेम की समाप्ति पर (या जब भी आप उच्च स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि क्या आपने अपना नया `high score` बनाया की नहीं।
+खेल के अंत में (या जब भी आप हाई स्कोर को अपडेट करना चाहें), आपको यह देखना होगा कि आपने अपना नया `high score` बनाया की नहीं।
 
 ![code blocks require to make high score equal score](images/check-for-high-score.png)
