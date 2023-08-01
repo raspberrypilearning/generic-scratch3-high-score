@@ -1,8 +1,8 @@
 खेल में हाई स्कोर का ध्यान रखना मज़ेदार होता है।
 
-मान लें आपके पास `score` नाम का वेरिएबल है, जो हर खेल के शुरुआत में ज़ीरो पर सेट हो जाता है।
+मान लें आपके पास `score`{:class="blockdata"} नाम का वेरिएबल है, जो हर खेल के शुरुआत में ज़ीरो पर सेट हो जाता है।
 
-`high score` नाम का एक और वेरिएबल जोड़ें।
+`high score`{:class="blockdata"} नाम का एक और वेरिएबल जोड़ें।
 
 ![variables menu with Make a Variable highlighted](images/make-variable-annotated.png)
 
